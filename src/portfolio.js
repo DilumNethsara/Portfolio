@@ -12,7 +12,7 @@ const about = {
   description:
     "I’m a Computer Science undergraduate with a passion for building modern apps and web systems" +
     "." +
-    " Skilled in Flutter, Dart, Android Studio(Java), API integration and web technologies (React, PHP, HTML, CSS)" +
+    " Skilled in Flutter, Dart, Java, Android Studio, API integration and web technologies (React, Js, PHP, HTML, CSS)" +
     "." +
     " An ML & AI enthusiast, I enjoy turning ideas into efficient and visually appealing digital experiences.",
   resume: "https://example.com",
