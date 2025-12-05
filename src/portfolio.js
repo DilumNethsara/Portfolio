@@ -1,11 +1,9 @@
 const header = {
-  // all the properties are optional - can be left empty or deleted
   homepage: "https://github.com/DilumNethsara/Portfolio",
   title: "",
 };
 
 const about = {
-  // all the properties are optional - can be left empty or deleted
   name: "Dilum Nethsara",
   role: "Mobile App Developer",
 
@@ -23,8 +21,6 @@ const about = {
 };
 
 const projects = [
-  // projects can be added an removed
-  // if there are no projects, Projects section won't show up
   {
     name: "Interest Collector App",
     description:
@@ -73,8 +69,6 @@ const projects = [
 ];
 
 const skills = [
-  // skills can be added or removed
-  // if there are no skills, Skills section won't show up
   "Flutter",
   "Dart",
   "Java",
@@ -90,7 +84,6 @@ const skills = [
 ];
 
 const contact = {
-  // email is optional - if left empty Contact section won't show up
   email: "dilumnethsara2020@gmail.com",
 };
 
