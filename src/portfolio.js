@@ -13,7 +13,6 @@ const about = {
     " Skilled in Flutter, Dart, Java, Android Studio, API integration and web technologies (React, Js, PHP, HTML, CSS)" +
     "." +
     " An ML & AI enthusiast, I enjoy turning ideas into efficient and visually appealing digital experiences.",
-  resume: "https://example.com",
   social: {
     linkedin: "https://www.linkedin.com/in/dilum-nethsara-773587259/",
     github: "https://github.com/DilumNethsara",
