@@ -71,6 +71,7 @@ const skills = [
   "Flutter",
   "Dart",
   "Java",
+  "PHP",
   "Firebase",
   "Python",
   "SQL",
