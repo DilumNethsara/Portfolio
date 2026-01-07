@@ -40,6 +40,15 @@ const projects = [
     image: "",
   },
   {
+    name: "Multiple Location Tracker",
+    description:
+      "A smart, location-based profile manager that lets users organize and visualize their data on a global map. Powered by a real-time MongoDB backend and Flutter, it provides a seamless way to track and explore profiles through an interactive Google Maps interface.",
+    stack: ["Flutter", "MongoDB"],
+    sourceCode: "https://github.com/DilumNethsara/Google-map-API_flutter",
+    livePreview: "",
+    image: "",
+  },
+  {
     name: "UniTickets - Web App",
     description:
       "A university event ticket booking platform where students can view upcoming events, book up to five tickets per event and verify their accounts with university IDs to unlock special offers. The system includes admin-managed event listings and a built-in forum for user communication.",
@@ -73,6 +82,7 @@ const skills = [
   "Java",
   "PHP",
   "Firebase",
+  "MongoDB",
   "Python",
   "SQL",
   "HTML",
@@ -84,7 +94,7 @@ const skills = [
 ];
 
 const contact = {
-  email: "dilumnethsara2020@gmail.com",
+  email: "lvdnethsara@gmail.com",
 };
 
 export { header, about, projects, skills, contact };
