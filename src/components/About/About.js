@@ -2,7 +2,7 @@ import GitHubIcon from "@mui/icons-material/GitHub";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
 import { about } from "../../portfolio";
 import "./About.css";
-import profileImg from "../../assets/profile.jpg";
+import profileImg from "../../assets/profile.png";
 import resume from "../../assets/CV-DilumNethsara.pdf";
 
 const About = () => {
@@ -20,7 +20,7 @@ const About = () => {
             </h1>
           )}
 
-          {role && <h2 className="about__role">{role}.</h2>}
+          {/*role && <h2 className="about__role">{role}.</h2>*/}
           <p className="about__desc">{description && description}</p>
         </div>
       </div>
